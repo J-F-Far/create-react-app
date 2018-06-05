@@ -1,3 +1,15 @@
+# J-F-Far fork of create-react-app
+
+Create-React-App is a great CLI tool, but in order to customize the configuration while maintaining the ability to receive future updates to CRA, the project needs to be forked.
+
+
+[Instructions followed](https://auth0.com/blog/how-to-configure-create-react-app/)
+
+[Issue describing motivation](https://github.com/facebook/create-react-app/issues/682)
+
+
+
+
 # Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
 
 Create React apps with no build configuration.
