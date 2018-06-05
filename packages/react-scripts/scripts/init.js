@@ -183,7 +183,7 @@ module.exports = function(
   console.log();
   console.log('Happy hacking!');
   console.log();
-  console.log('This app was created using a fork of the official CRA repository at '+${chalk.red('https://github.com/J-F-Far/create-react-app')}):
+  console.log('This app was created using a fork of the official CRA repository at '+`${chalk.red('https://github.com/J-F-Far/create-react-app')}`):
 };
 
 function isReactInstalled(appPackage) {
